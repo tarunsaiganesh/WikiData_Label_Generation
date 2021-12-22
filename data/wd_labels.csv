@@ -1,0 +1,456 @@
+P27,country of citizenship
+P641,sport
+P17,country
+P530,diplomatic relation
+P1889,different from
+P2283,uses
+P279,subclass of
+P31,instance of
+P495,country of origin
+P61,discoverer or inventor
+P1532,country for sport
+P20,place of death
+P413,position played on team / speciality
+P1830,owner of
+P190,twinned administrative body
+P1313,office held by head of government
+P150,contains administrative territorial entity
+P172,ethnic group
+P1906,office held by head of state
+P2596,culture
+P30,continent
+P361,part of
+P793,significant event
+P118,league
+P1365,replaces
+P2500,league level below
+P527,has part
+P19,place of birth
+P1001,applies to jurisdiction
+P54,member of sports team
+P115,home venue
+P155,follows
+P2499,league level above
+P664,organizer
+P47,shares border with
+P1344,participant in
+P6087,coach of sports team
+P3450,sports season of league or competition
+P3279,statistical leader
+P36,capital
+P1376,capital of
+P3842,located in present-day administrative territorial entity
+P131,located in the administrative territorial entity
+P1462,standards body
+P366,use
+P276,location
+P5353,school district
+P166,award received
+P1346,winner
+P159,headquarters location
+P3373,sibling
+P647,drafted by
+P112,founded by
+P463,member of
+P1269,facet of
+P5125,Wikimedia outline
+P466,occupant
+P706,located on terrain feature
+P40,child
+P22,father
+P156,followed by
+P108,employer
+P69,educated at
+P138,named after
+P921,main subject
+P1411,nominated for
+P26,spouse
+P127,owned by
+P840,narrative location
+P286,head coach
+P39,position held
+P937,work location
+P551,residence
+P1268,represents
+P2416,sports discipline competed in
+P737,influenced by
+P1343,described by source
+P2522,victory
+P945,allegiance
+P2541,operating area
+P360,is a list of
+P2354,has list
+P106,occupation
+P425,field of this occupation
+P178,developer
+P25,mother
+P123,publisher
+P1416,affiliation
+P137,operator
+P179,part of the series
+P1366,replaced by
+P710,participant
+P1535,used by
+P264,record label
+P7959,historic county
+P1056,product or material produced
+P355,subsidiary
+P461,opposite of
+P291,place of publication
+P501,enclave within
+P180,depicts
+P452,industry
+P5995,kit supplier
+P7888,merged into
+P740,location of formation
+P607,conflict
+P449,original broadcaster
+P101,field of work
+P485,archives at
+P136,genre
+P1923,participating team
+P1269,facet of
+P279,subclass of
+P1412,"languages spoken, written or signed"
+P27,country of citizenship
+P463,member of
+P112,founded by
+P31,instance of
+P3342,significant person
+P17,country
+P206,located in or next to body of water
+P30,continent
+P47,shares border with
+P530,diplomatic relation
+P127,owned by
+P169,chief executive officer
+P1830,owner of
+P1889,different from
+P159,headquarters location
+P36,capital
+P1376,capital of
+P190,twinned administrative body
+P5869,model item
+P194,legislative body
+P150,contains administrative territorial entity
+P2633,geography of topic
+P361,part of
+P38,currency
+P172,ethnic group
+P551,residence
+P737,influenced by
+P119,place of burial
+P135,movement
+P20,place of death
+P425,field of this occupation
+P937,work location
+P366,use
+P108,employer
+P69,educated at
+P138,named after
+P461,opposite of
+P208,executive body
+P1336,territory claimed by
+P131,located in the administrative territorial entity
+P35,head of state
+P6,head of government
+P706,located on terrain feature
+P1056,product or material produced
+P452,industry
+P527,has part
+P2388,office held by head of the organization
+P3320,board member
+P355,subsidiary
+P3975,secretary general
+P457,foundational text
+P155,follows
+P1589,lowest point
+P9241,demographics of topic
+P807,separated from
+P740,location of formation
+P921,main subject
+P5125,Wikimedia outline
+P123,publisher
+P495,country of origin
+P19,place of birth
+P1142,political ideology
+P1891,signatory
+P2579,studied by
+P2578,studies
+P101,field of work
+P2184,history of topic
+P102,member of political party
+P1454,legal form
+P171,parent taxon
+P183,endemic to
+P276,location
+P205,basin country
+P403,mouth of the watercourse
+P1037,director / manager
+P1535,used by
+P1435,heritage designation
+P126,maintained by
+P664,organizer
+P828,has cause
+P397,parent astronomical body
+P398,child astronomical body
+P1001,applies to jurisdiction
+P749,parent organization
+P39,position held
+P166,award received
+P974,tributary
+P1552,has quality
+P26,spouse
+P291,place of publication
+P106,occupation
+P121,item operated
+P4552,mountain range
+P610,highest point
+P1343,described by source
+P1557,manifestation of
+P2283,uses
+P2652,partnership with
+P1344,participant in
+P1382,partially coincident with
+P2670,has parts of the class
+P1433,published in
+P1542,has effect
+P137,operator
+P156,followed by
+P170,creator
+P2354,has list
+P50,author
+P2238,official symbol
+P40,child
+P22,father
+P6275,copyright representative
+P1875,represented by
+P3712,objective of project or action
+P488,chairperson
+P780,symptoms and signs
+P793,significant event
+P859,sponsor
+P2650,interested in
+P800,notable work
+P1308,officeholder
+P2389,organization directed by the office or position
+P748,appointed by
+P1365,replaces
+P460,said to be the same as
+P5138,season of club or team
+P2888,exact match
+P451,unmarried partner
+P945,allegiance
+P1050,medical condition
+P1290,godparent
+P1038,relative
+P141,IUCN conservation status
+P885,origin of the watercourse
+P618,source of energy
+P175,performer
+P1283,filmography
+P500,exclave of
+P136,genre
+P437,distribution format
+P84,architect
+P306,operating system
+P1028,donated by
+P2821,by-product
+P523,temporal range start
+P941,inspired by
+P2058,depositor
+P360,is a list of
+P1990,species kept
+P149,architectural style
+P1027,conferred by
+P542,officially opened by
+P8047,country of registry
+P3719,regulated by
+P8744,economy of topic
+P7153,significant place
+P412,voice type
+P840,narrative location
+P1408,licensed to broadcast to
+P144,based on
+P178,developer
+P4969,derivative work
+P98,editor
+P2541,operating area
+P25,mother
+P57,director
+P58,screenwriter
+P376,located on astronomical body
+P184,doctoral advisor
+P7959,historic county
+P1416,affiliation
+P186,made from material
+P467,legislated by
+P547,commemorates
+P3938,named by
+P1576,lifestyle
+P2925,domain of saint or deity
+P6886,writing language
+P6193,ratified by
+P2567,amended by
+P812,academic major
+P176,manufacturer
+P1532,country for sport
+P54,member of sports team
+P2974,habitat
+P2868,subject has role
+P609,terminus location
+P2596,culture
+P710,participant
+P275,copyright license
+P179,part of the series
+P1546,motto
+P162,producer
+P5588,invasive to
+P2522,victory
+P931,place served by transport hub
+P1346,winner
+P407,language of work or name
+P371,presenter
+P264,record label
+P1479,has contributing factor
+P509,cause of death
+P272,production company
+P837,day in year for periodic occurrence
+P161,cast member
+P915,filming location
+P2348,time period
+P2936,language used
+P37,official language
+P400,platform
+P201,lake outflow
+P88,commissioned by
+P2438,narrator
+P1158,location of landing
+P1427,start point
+P408,software engine
+P185,doctoral student
+P588,coolant
+P3602,candidacy in election
+P674,characters
+P61,discoverer or inventor
+P1425,ecoregion (WWF)
+P140,religion
+P20,place of death
+P39,position held
+P40,child
+P937,work location
+P22,father
+P27,country of citizenship
+P159,headquarters location
+P1830,owner of
+P2388,office held by head of the organization
+P279,subclass of
+P31,instance of
+P797,authority
+P1365,replaces
+P1366,replaced by
+P17,country
+P2936,language used
+P3075,official religion
+P36,capital
+P37,official language
+P112,founded by
+P1376,capital of
+P190,twinned administrative body
+P206,located in or next to body of water
+P2596,culture
+P47,shares border with
+P5125,Wikimedia outline
+P793,significant event
+P1001,applies to jurisdiction
+P2319,elector
+P2354,has list
+P2389,organization directed by the office or position
+P263,official residence
+P276,location
+P150,contains administrative territorial entity
+P2184,history of topic
+P463,member of
+P530,diplomatic relation
+P1412,"languages spoken, written or signed"
+P138,named after
+P2341,indigenous to
+P527,has part
+P361,part of
+P131,located in the administrative territorial entity
+P2348,time period
+P156,followed by
+P3842,located in present-day administrative territorial entity
+P1038,relative
+P1889,different from
+P1906,office held by head of state
+P97,noble title
+P800,notable work
+P50,author
+P825,dedicated to
+P88,commissioned by
+P710,participant
+P119,place of burial
+P6886,writing language
+P149,architectural style
+P84,architect
+P127,owned by
+P457,foundational text
+P501,enclave within
+P1066,student of
+P135,movement
+P6379,has works in the collection
+P802,student
+P921,main subject
+P170,creator
+P915,filming location
+P495,country of origin
+P740,location of formation
+P155,follows
+P172,ethnic group
+P1269,facet of
+P1598,consecrator
+P19,place of birth
+P407,language of work or name
+P106,occupation
+P66,ancestral home
+P1344,participant in
+P607,conflict
+P706,located on terrain feature
+P737,influenced by
+P53,family
+P69,educated at
+P748,appointed by
+P103,native language
+P205,basin country
+P3716,social classification
+P4330,contains
+P974,tributary
+P840,narrative location
+P509,cause of death
+P551,residence
+P194,legislative body
+P403,mouth of the watercourse
+P945,allegiance
+P2925,domain of saint or deity
+P366,use
+P157,killed by
+P193,main building contractor
+P931,place served by transport hub
+P26,spouse
+P460,said to be the same as
+P3373,sibling
+P25,mother
+P108,employer
+P1591,defendant
+P1427,start point
+P1444,destination point
+P664,organizer
+P144,based on
+P1037,director / manager
+P360,is a list of
+P177,crosses
+P287,designed by
+P541,office contested
+P101,field of work
+P466,occupant
